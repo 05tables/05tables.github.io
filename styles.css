@@ -1,0 +1,99 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cutive Mono', monospace;
+    overflow: none;
+}
+.submit
+{
+    text-align: center;
+    background-color:rgb(179, 179, 172);
+}
+.contactform
+{background-color:rgb(179, 179, 172);
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
+} 
+
+#contthx
+{
+    text-align: center;
+    border: 1px solid black;
+    font-size: 20px;
+}
+#thanksmain
+{
+    background-color:rgb(179, 179, 172);
+}
+
+table{
+    
+    margin: auto;
+}
+
+nav
+{
+    padding: 40px;
+    background-color: rgb(207, 202, 202);
+    padding-top: 50px;
+    padding-bottom: 70px;
+    position: sticky
+
+}
+
+nav a
+{
+    text-decoration: none;
+    color: black;
+    float: right;
+    padding: 10px;
+    
+
+}
+
+nav a:hover
+{
+    color: whitesmoke;
+    border-radius: 50px;
+    border: solid gray fill;
+    background: black;
+}
+
+
+nav h1{
+
+    display: inline-grid;
+    float: left;
+}
+
+
+.head1
+{
+    background-color: black;
+    padding: 200px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    overflow: none;
+}
+
+
+.main{
+    padding: 100px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(179, 179, 172);
+}
+
+.main p{
+    padding: 15px;
+}
+
+.blackblock{
+    padding-bottom:50px;
+    background-color: black;
+}
